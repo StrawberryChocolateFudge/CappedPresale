@@ -1,0 +1,25 @@
+{
+  "name": "cappedpresale",
+  "version": "0.0.1",
+  "description": "Capped Presale front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@metamask/onboarding": "^1.0.1",
+    "parcel-bundler": "^1.12.5",
+    "web3": "^1.7.1",
+    "@ricardianfabric/verify-signed-contract": "git+https://github.com/StrawberryChocolateFudge/Verify-Signed-Contract.git"
+  },
+  "browserslist": [
+    "last 3 and_chr versions",
+    "last 3 chrome versions",
+    "last 3 opera versions",
+    "last 3 ios_saf versions",
+    "last 3 safari versions"
+  ]
+}
