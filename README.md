@@ -48,3 +48,7 @@ The buy function is called when making a purchase. only the max cap can be sold.
 ## Run locally
 
     npx hardhat node
+
+## FRONT END
+
+WIP!!
